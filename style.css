@@ -1,0 +1,29 @@
+
+body{
+  font-family: 'Fira Sans', sans-serif;
+  margin: 16px;
+  padding: 16px;
+}
+
+input[type=text] {
+  width: 100%;
+  font-size: 24px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid rgba(0,0,0, 0.1);
+}
+
+button {
+  background-color: #e53935; /* Green */
+  border: none;
+  color: white;
+  border-radius: 4px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: 'Fira Sans', sans-serif;
+}
